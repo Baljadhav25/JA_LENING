@@ -1,0 +1,21 @@
+console.log("***********Step 1 Declare Variable *******");
+var fullName;
+console.log(fullName);
+fullName="Balasaheb jadhav";
+console.log("My Full Name Is ",fullName);
+console.log("********Update Variable***********");
+fullName="Balasaheb Chintamani jadhav";
+console.log(fullName);
+var myLove="I love only Js";
+console.log("****vairable Declare and Initialization*******");
+console.log(myLove);
+var firstName="Balasaheb", lastName="jadhav",age=33,address="pandharpur",pincode=413304,gender="Male",isMarrid="Marrd";
+console.log("My First Name Is ",firstName);
+console.log("My Last Name",lastName);
+console.log("My Age Is ",age);
+console.log("My Address Is",address);
+console.log("City Pincode Is ",pincode);
+console.log("Gender Is ",gender);
+console.log("Marrid Status is ",isMarrid);
+console.log("My name is ",firstName,lastName,age,address,pincode,gender,isMarrid);
+
